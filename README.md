@@ -1,4 +1,4 @@
 # collagedemo
 this  is first repository.
 <b>
-auther-shivanshupal
+auther-SHIVANSHU PAL( collage ma hai)
